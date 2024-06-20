@@ -2,13 +2,13 @@
 
 ## Data Preparation
 
-### Pre-training Dataset
+### Pretraining Dataset
 
 ### Evaluation Dataset
 
-## Pre-trained Weights
+## Pretrained Weights
 
-| Method | Epochs | website | password |
+| Method | Pretrain Epochs | website | password |
 |-------|-------|-------|-------|
 | MAE ViT-S/16 | 300 | https://pan.baidu.com/s/1wE5Ia9L0pOug9ZES7_qM2Q | gmec |
 | MAE ViT-B/16 | 300 |  |  |
