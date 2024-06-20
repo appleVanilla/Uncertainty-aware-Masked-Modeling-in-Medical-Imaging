@@ -2,7 +2,9 @@
 
 ## Data Preparation
 
-### Pre-training Dataset: LIDC
+### Pre-training Dataset
+
+### Evaluation Dataset
 
 ## Pre-trained Weights
 
