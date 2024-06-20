@@ -10,7 +10,9 @@
 | MAE ViT-B/16 | 300 |  |  |
 | MAE ViT-L/16 | 300 |  |  |
 | MAE ViT-H/16 | 300 |  |  |
-|-------|-------|-------|-------|
+| SparK ResNet-50 | 300 |  |  |
+| SparK ResNet-101 | 300 |  |  |
+
 
 ## Contact
 
