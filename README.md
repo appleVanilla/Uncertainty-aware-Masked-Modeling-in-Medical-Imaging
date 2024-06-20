@@ -12,6 +12,8 @@
 | MAE ViT-H/16 | 300 |  |  |
 | SparK ResNet-50 | 300 |  |  |
 | SparK ResNet-101 | 300 |  |  |
+| SparK ConvNeXt-S | 300 |  |  |
+| SparK ConvNeXt-B | 300 |  |  |
 
 
 ## Contact
