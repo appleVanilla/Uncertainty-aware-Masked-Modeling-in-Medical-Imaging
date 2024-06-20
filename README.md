@@ -4,10 +4,13 @@
 
 ## Pre-trained Weights
 
-| Method | Epochs | website | website |
+| Method | Epochs | website | password |
 |-------|-------|-------|-------|
 | MAE ViT-S/16 | 300 |  |  |
 | MAE ViT-B/16 | 300 |  |  |
+| MAE ViT-L/16 | 300 |  |  |
+| MAE ViT-H/16 | 300 |  |  |
+|-------|-------|-------|-------|
 
 ## Contact
 
