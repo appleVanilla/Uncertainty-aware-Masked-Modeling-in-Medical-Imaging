@@ -1,6 +1,8 @@
 # Mask-awared-Hard-Patches-Mining-in-Mask-Image-Modeling
 
-## Dataset
+## Data Preparation
+
+### Pre-training Dataset: LIDC
 
 ## Pre-trained Weights
 
