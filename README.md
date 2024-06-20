@@ -1,1 +1,1 @@
-# Mask-Strategy-Aware-Hard-Patches-Mining-in-Mask-Image-Modeling
+# Mask-awared-Hard-Patches-Mining-in-Mask-Image-Modeling
