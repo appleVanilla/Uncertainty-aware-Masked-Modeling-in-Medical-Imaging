@@ -6,7 +6,7 @@
 
 | Method | Epochs | website | password |
 |-------|-------|-------|-------|
-| MAE ViT-S/16 | 300 |  |  |
+| MAE ViT-S/16 | 300 | https://pan.baidu.com/s/1wE5Ia9L0pOug9ZES7_qM2Q | gmec |
 | MAE ViT-B/16 | 300 |  |  |
 | MAE ViT-L/16 | 300 |  |  |
 | MAE ViT-H/16 | 300 |  |  |
