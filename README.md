@@ -30,8 +30,8 @@ We tested our pre-training on three CT classification tasks:
 
 | Method | Pretrain Epochs | website | password |
 |-------|:-------:|:-------:|:-------:|
-| SparK ResNet-50 | 300 |  |  |
-| SparK ConvNeXt-S | 300 |  |  |
+| SparK ResNet-50 | 300 | https://pan.baidu.com/s/1Qk03S1ECwN5pVE8iBFrUJQ | idag |
+| SparK ConvNeXt-S | 300 | https://pan.baidu.com/s/1AkUriGNpd704KuPYMpMYlA | c3sc |
 
 | Method | Pretrain Epochs | website | password |
 |-------|:-------:|:-------:|:-------:|
