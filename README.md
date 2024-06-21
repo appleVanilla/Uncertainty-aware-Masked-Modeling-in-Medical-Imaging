@@ -15,9 +15,9 @@ Download the LIDC-IDRI Dataset from here: https://wiki.cancerimagingarchive.net/
 Three datasets **COVID-19**, **OrgMNIST** and **Brain** are selected to perform downstream tasks to evaluate the effectiveness of the pre-training phase.
 We tested our pre-training on three CT classification tasks:
 
-- COVID-19: Covid classification on lung CT scans (From Grand Challenge https://covid-ct.grand-challenge.org/ or https://doi.org/10.48550/arXiv.2003.13865)
-- OrgMNIST: Multi-class classification of 11 body organs on patches cropped around organs from abdominal CT scans (From MedMNIST Challenges https://medmnist.com/ or https://doi.org/10.1038/s41597-022-01721-8)
-- Brain: Brain hemorrhage classification on brain CT scans on an internal dataset of the Ulm Univerity Medical Center
+- **COVID-19******: Covid classification on lung CT scans (From Grand Challenge https://covid-ct.grand-challenge.org/ or https://doi.org/10.48550/arXiv.2003.13865)
+- **OrgMNIST**: Multi-class classification of 11 body organs on patches cropped around organs from abdominal CT scans (From MedMNIST Challenges https://medmnist.com/ or https://doi.org/10.1038/s41597-022-01721-8)
+- **Brain**: Brain hemorrhage classification on brain CT scans on an internal dataset of the Ulm Univerity Medical Center
 
 ## Pretrained Weights
 
