@@ -41,9 +41,3 @@ We tested our pre-training on three CT classification tasks:
 | HPM ViT-B/16 | 300 |  |  |
 | HPM ViT-L/16 | 300 |  |  |
 
-
-## Contact
-
-- 作者：[你的名字]
-- 邮箱：[你的邮箱]
-- 网站：[你的网站]
