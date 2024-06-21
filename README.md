@@ -26,7 +26,7 @@ We tested our pre-training on three CT classification tasks:
 | MAE ViT-S/16 | 300 | https://pan.baidu.com/s/1wE5Ia9L0pOug9ZES7_qM2Q | gmec |
 | MAE ViT-B/16 | 300 | https://pan.baidu.com/s/1tkVaVZAGt2Cymus_Qzvu5Q | js8p |
 | MAE ViT-L/16 | 300 | https://pan.baidu.com/s/1Gj8wDvwdp2rk3ibz_7XcQA | lojj |
-| MAE ViT-H/16 | 300 |  |  |
+| MAE ViT-H/16 | 300 | https://pan.baidu.com/s/1yb5T78kYl4BNPu026J09sg | v6lo |
 
 | Method | Pretrain Epochs | website | password |
 |-------|:-------:|:-------:|:-------:|
