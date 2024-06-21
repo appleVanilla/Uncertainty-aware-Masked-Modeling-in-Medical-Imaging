@@ -1,5 +1,7 @@
 # Mask-awared-Hard-Patches-Mining-in-Mask-Image-Modeling
 
+The project is still under construction. :construction:
+
 ## Data Preparation
 
 ### Pretraining Dataset
