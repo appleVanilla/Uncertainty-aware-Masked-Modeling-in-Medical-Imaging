@@ -35,6 +35,6 @@ We tested our pre-training on three CT classification tasks:
 
 | Method | Pretrain Epochs | website | password |
 |-------|:-------:|:-------:|:-------:|
-| HPM ViT-S/16 | 300 |  |  |
-| HPM ViT-B/16 | 300 |  |  |
+| HPM ViT-S/16 | 300 | https://pan.baidu.com/s/1ThlXk64sTVUDlkC7iTk_Tw | 0vt1 |
+| HPM ViT-B/16 | 300 | https://pan.baidu.com/s/1jdak7-xGVu6sPEQ2NOpvQw | gh3k |
 
