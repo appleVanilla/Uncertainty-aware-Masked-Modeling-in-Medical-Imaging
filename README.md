@@ -8,6 +8,8 @@ The project is still under construction :construction:.
 
 The publicly accessible **LIDC-IDRI** dataset, comprising lung CT scans of 1,010 patients in DICOM format, was utilized for pre-training. In the preprocessing phase, 244,527 slices from these scans were saved as PNG files and intensity-normalized based on the dataset's mean and standard deviation.
 
+Download the LIDC-IDRI Dataset from here: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254
+
 ### Downstream Dataset
 
 Three datasets **COVID-19**, **OrgMNIST** and **Brain** are selected to perform downstream tasks to evaluate the effectiveness of the pre-training phase.
