@@ -28,6 +28,12 @@ Three datasets **COVID-19**, **OrgMNIST** and **Brain** are selected to perform 
 | SparK ConvNeXt-S | 300 |  |  |
 | SparK ConvNeXt-B | 300 |  |  |
 
+| Method | Pretrain Epochs | website | password |
+|-------|:-------:|:-------:|:-------:|
+| HPM ViT-S/16 | 300 |  |  |
+| HPM ViT-B/16 | 300 |  |  |
+| HPM ViT-L/16 | 300 |  |  |
+
 
 ## Contact
 
