@@ -4,7 +4,7 @@
 
 ### Pretraining Dataset
 
-The publicly accessible LIDC-IDRI dataset, comprising lung CT scans of 1,010 patients in DICOM format, was utilized for pre-training. In the preprocessing phase, 244,527 slices from these scans were saved as PNG files and intensity-normalized based on the dataset's mean and standard deviation.
+The publicly accessible **LIDC-IDRI** dataset, comprising lung CT scans of 1,010 patients in DICOM format, was utilized for pre-training. In the preprocessing phase, 244,527 slices from these scans were saved as PNG files and intensity-normalized based on the dataset's mean and standard deviation.
 
 ### Evaluation Dataset
 
