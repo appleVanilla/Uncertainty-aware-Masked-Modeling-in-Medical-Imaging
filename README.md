@@ -20,6 +20,9 @@ Three datasets **COVID-19**, **OrgMNIST** and **Brain** are selected to perform 
 | MAE ViT-B/16 | 300 | https://pan.baidu.com/s/1tkVaVZAGt2Cymus_Qzvu5Q | js8p |
 | MAE ViT-L/16 | 300 | https://pan.baidu.com/s/1Gj8wDvwdp2rk3ibz_7XcQA | lojj |
 | MAE ViT-H/16 | 300 |  |  |
+
+| Method | Pretrain Epochs | website | password |
+|-------|:-------:|:-------:|:-------:|
 | SparK ResNet-50 | 300 |  |  |
 | SparK ResNet-101 | 300 |  |  |
 | SparK ConvNeXt-S | 300 |  |  |
