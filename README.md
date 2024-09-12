@@ -1,4 +1,4 @@
-# Uncertainty-aware Masked Modeling\\in Medical Imaging
+# Uncertainty-aware Masked Modeling in Medical Imaging
 
 The detailed code will be released soon. :construction:.
 
